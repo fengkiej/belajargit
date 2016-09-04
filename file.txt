@@ -1,11 +1,9 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 Hello World 2.1
 =======
 Hello World
 
 dlrow olleH
->>>>>>> b1095946c969214de28a60dc9ccce6f5e837f806
 =======
 belajar git
 hai, saya belajar untuk edit file di github barengan candra
@@ -13,4 +11,4 @@ hai, saya belajar untuk edit file di github barengan candra
 Hello World
 
 watefer apa saja
->>>>>>> e81a8f4aaaf8f8dee86cd0c8a4a9bcb59ae3ad35
+fsdfasdfasdf
