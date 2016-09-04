@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 belajar git
 hai, saya belajar untuk edit file di github barengan candra
+=======
+Hello World
+>>>>>>> f9e7d7cb17c72994c56450e33718e9a5da8dd695
